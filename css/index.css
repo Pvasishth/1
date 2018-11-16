@@ -1,0 +1,26 @@
+.header{
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+    
+}
+.header a{
+    float: right;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 15px;
+   border: 1px;
+
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    float: left;
+    
+}
+.header-right{
+    float: right;
+    align-content: center;
+    border: 1px;
+}
